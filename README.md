@@ -1,2 +1,2 @@
 # barcode-scanner
-barcode scanner with computer camera
+A bunch of small solutions for qr codes and barcodes with python

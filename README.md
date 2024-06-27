@@ -1,9 +1,9 @@
 # barcode-scanner
 A bunch of small solutions for qr codes and barcodes with python. Feel free to use and modify!
 
-* [Reading the barcode/qrcode from a file](https://github.com/kor5n/barcode-project/edit/main/README.md#reading-the-barcodeqrcode-from-a-file-barcode2py)
-* [Scanning the barcode iwth your computer camera](https://github.com/kor5n/barcode-project/edit/main/README.md#scanning-the-barcode-with-your-computer-camera-barcode_scannerpy)
-* [Generating qrcode with graphical interface](https://github.com/kor5n/barcode-project/edit/main/README.md#scanning-the-barcode-with-your-computer-camera-barcode_scannerpy)
+* [Reading the barcode/qrcode from a file](https://github.com/kor5n/barcode-project?tab=readme-ov-file#reading-the-barcodeqrcode-from-a-file-barcode2py)
+* [Scanning the barcode iwth your computer camera](https://github.com/kor5n/barcode-project?tab=readme-ov-file#scanning-the-barcode-with-your-computer-camera-barcode_scannerpy)
+* [Generating qrcode with graphical interface](https://github.com/kor5n/barcode-project?tab=readme-ov-file#generating-qrcode-with-graphical-interface-qr_code_generatorpy)
 
 ## Reading the barcode/qrcode from a file (barcode2.py)
 To run the script type:
